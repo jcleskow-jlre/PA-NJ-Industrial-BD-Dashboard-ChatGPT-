@@ -1,4 +1,9 @@
-PA/NJ/DE Industrial Market & BD Dashboard - v24 mobile performance QA
+PA/NJ/DE Industrial Market & BD Dashboard - v25 Animated Login
 
 Upload index.html to the root of the GitHub Pages repository.
-Mobile caps the initial rendered marker set for performance while keeping the full dataset available in cards/tables/search. Desktop renders the full filtered map set.
+
+Default login:
+Username: jleskow@savills.us
+Password: Savills2026!
+
+Important: This is a static GitHub Pages login gate for presentation/internal convenience only. It is not true secure authentication because credentials are embedded in front-end code.
