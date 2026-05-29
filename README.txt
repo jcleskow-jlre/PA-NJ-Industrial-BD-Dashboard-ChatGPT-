@@ -1,3 +1,4 @@
-PA/NJ/DE Industrial Market & BD Dashboard - v16 Salesforce master inventory baseline
+PA/NJ/DE Industrial Market & BD Dashboard - v17 mobile UX fixed
 
-Upload index.html to the root of your GitHub Pages repo. Data is embedded in index.html. Leaflet/Esri map tiles require internet access.
+Upload index.html to the root of the GitHub Pages repository.
+Dashboard data is embedded in index.html. Leaflet/Esri map tiles require internet access.
